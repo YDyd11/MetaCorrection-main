@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d3260d59-766d-4997-9a9c-8acef82334f4" name="domain adaptation">
+        <fileTransfer rootFolder="/data12T/ydaugust/code/domain_adaptation/MetaCorrection-main" accessType="SFTP" host="192.168.2.232" port="22" sshConfigId="77671693-5a6e-4159-ba0a-889321b11432" sshConfig="ydaugust@192.168.2.232:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="b7b4c086-2779-42e0-8bf0-b9a8ed249d87" name="ydaugust">
+        <fileTransfer accessType="SFTP" host="202.38.69.241" port="22232" sshConfigId="aa7d36a2-76c7-40e6-82ef-c0e0a0b7c697" sshConfig="ydaugust@202.38.69.241:22232 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

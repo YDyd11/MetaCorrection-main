@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ydaugust@202.38.69.241:22232 agent" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="domain adaptation">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ydaugust">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data12T/ydaugust/code/domain_adaptation/MetaCorrection-main" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ydaugust@192.168.2.232:22 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data12T/ydaugust/code/domain_adaptation/MetaCorrection-main" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ydaugust@192.168.2.232:22 key (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ydaugust@192.168.2.232:22 key (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ydaugust@192.168.2.232:22 key (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ydaugust@192.168.2.232:22 key (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data12T/ydaugust/code/domain_adaptation/MetaCorrection-main" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ydaugust@192.168.2.232:22 key (5)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data12T/ydaugust/code/domain_adaptation/MetaCorrection-main" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ydaugust@202.38.69.241:22232 agent">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data12T/ydaugust/code/domain_adaptation/MetaCorrection-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
