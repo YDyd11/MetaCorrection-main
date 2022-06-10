@@ -180,5 +180,5 @@ if __name__ == '__main__':
     #     else:
     #         new_params[i.replace('layer5','layer6')] = saved_state_dict[i]
     #model.load_state_dict(new_params)
-    evaluate(model, pred_dir='/data12T/ydaugust/code/domain_adaptation/MetaCorrection-main/result/resnet101_gta5_15w')
+    evaluate(model, pred_dir='/data12T/ydaugust/code/domain_adaptation/MetaCorrection-main/result/cityscapes_resnet50_25w')
     print('Finish Evaluation: ' + time.asctime(time.localtime(time.time())))
